@@ -1,0 +1,58 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#button_3ca14934 { box-sizing: border-box; vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; margin:0px 20px 0px 0px;width:92px; height:40px; background-color:rgba(10, 157, 255, 0.8); border-top: none; border-left: none; border-right: none; border-bottom: none; box-shadow: 7px 7px 4px -5px rgba(0, 0, 0, 0.784314);  }
+#button_3ca14934:hover { background-color:rgba(0, 108, 227, 0.8); border-color:#000000;  }
+#button_3ca14934:hover span { color:#FFFFFF; }
+#button_12e144f2 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:139px; height:40px; background-color:rgba(15, 20, 35, 0.6); border-top: none; border-left: 2px solid #05FF9B; border-right: none; border-bottom: none; box-shadow: 7px 7px 4px -5px rgba(0, 0, 0, 0.784314);  }
+#button_12e144f2:hover { background-color:rgba(3, 156, 52, 0.6); border-color:#000000;  }
+#button_12e144f2:hover span { color:#FFFFFF; }
+#button_721fbbe0 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; margin:15px 0px 0px 0px;width:139px; height:40px; background-color:rgba(15, 20, 35, 0.6); border-top: none; border-left: 2px solid #0A9DFF; border-right: none; border-bottom: none; box-shadow: 7px 7px 4px -5px rgba(0, 0, 0, 0.784314);  }
+#button_721fbbe0:hover { background-color:rgba(0, 108, 227, 0.6); border-color:#000000;  }
+#button_721fbbe0:hover span { color:#FFFFFF; }
+#button_390aab84 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; margin:15px 0px 0px 0px;width:139px; height:40px; background-color:rgba(15, 20, 35, 0.6); border-top: none; border-left: 5px solid #0A9DFF; border-right: none; border-bottom: none; box-shadow: 7px 7px 4px -5px rgba(0, 0, 0, 0.784314);  }
+#button_390aab84:hover { background-color:rgba(0, 108, 227, 0.6); border-color:#000000;  }
+#button_390aab84:hover span { color:#FFFFFF; }
+#button_14e88ee0 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; margin:15px 0px 0px 0px;width:139px; height:40px; background-color:rgba(15, 20, 35, 0.6); border-top: none; border-left: 2px solid #0A9DFF; border-right: none; border-bottom: none; box-shadow: 7px 7px 4px -5px rgba(0, 0, 0, 0.784314);  }
+#button_14e88ee0:hover { background-color:rgba(0, 108, 227, 0.6); border-color:#000000;  }
+#button_14e88ee0:hover span { color:#FFFFFF; }
+#button_11e60731 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; margin:15px 0px 0px 0px;width:139px; height:40px; background-color:rgba(15, 20, 35, 0.6); border-top: none; border-left: 2px solid #0A9DFF; border-right: none; border-bottom: none; box-shadow: 7px 7px 4px -5px rgba(0, 0, 0, 0.784314);  }
+#button_11e60731:hover { background-color:rgba(0, 108, 227, 0.6); border-color:#000000;  }
+#button_11e60731:hover span { color:#FFFFFF; }
+#button_722b2bda { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; margin:15px 0px 0px 0px;width:139px; height:40px; background-color:rgba(15, 20, 35, 0.6); border-top: none; border-left: 2px solid #0A9DFF; border-right: none; border-bottom: none; box-shadow: 7px 7px 4px -5px rgba(0, 0, 0, 0.784314);  }
+#button_722b2bda:hover { background-color:rgba(0, 108, 227, 0.6); border-color:#000000;  }
+#button_722b2bda:hover span { color:#FFFFFF; }
+body { background-color:#0E0F1A; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_23870fe5 { vertical-align: top; position:relative; display: inline-block; width:102%; min-height:675px; background:none;  }
+#container_23870fe5_padding { margin: 10px; display: block;  }
+#container_38b56572 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:110px; background:none;  }
+#container_38b56572_padding { margin: 10px; display: block;  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle2 { text-align:center; }
+.textstyle3 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+.textstyle4 { font-size:32pt; font-family:'@Microsoft YaHei UI'; color:#0A9DFF; font-weight:bold;  }
+.textstyle5 { font-size:30pt; font-family:'@Microsoft YaHei UI'; color:#FFFFFF; font-weight:bold;  }
+#container_5705fe1d { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:602px; background:none;  }
+#container_5705fe1d_padding { margin: 10px; display: block;  }
+#container_11540ca1 { vertical-align: top; position:relative; display: inline-block; width:20%; min-height:424px; background:none;  }
+#container_11540ca1_padding { margin: 10px; display: block;  }
+.textstyle6 { text-align:right; }
+.textstyle7 { font-size:10pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+#container_8b63d45 { vertical-align: top; position:relative; display: inline-block; margin:0px 0px 0px 15px;width:73%; min-height:555px; background:none;  }
+#container_8b63d45_padding { margin: 10px; display: block;  }
+#container_13c9e25a { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:56px; background:none;  }
+#container_13c9e25a_padding { margin: 10px; display: block;  }
+.textstyle8 { font-size:22pt; font-family:'@Microsoft YaHei UI'; color:#0A9DFF; font-weight:bold;  }
+.textstyle9 { font-size:20pt; font-family:'@Microsoft YaHei UI'; color:#FFFFFF; font-weight:bold;  }
+#container_1fd37729 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:476px; background:none;  }
+#container_1fd37729_padding { margin: 10px; display: block;  }
+#img_6fc61b5 { vertical-align: bottom; position:relative; display: inline-block; margin:15px 0px 0px 0px;width:40%; background:none; height:auto;  }
+#video_e386fb8 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; margin:15px 0px 0px 0px;width:50%; background-color:#D1D1D1; border: 1px solid #A0A0A0;  }
+@media only screen and (max-width: 400px)
+{
+		#container_11540ca1 { width:100%;  }
+		#container_8b63d45 { width:100%;  }
+}

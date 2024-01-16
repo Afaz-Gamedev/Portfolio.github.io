@@ -1,0 +1,42 @@
+a { color:#1EA3EE; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#button_5b736143 { box-sizing: border-box; vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; margin:0px 20px 0px 0px;width:92px; height:40px; background-color:rgba(10, 157, 255, 0.8); border-top: none; border-left: none; border-right: none; border-bottom: none; box-shadow: 7px 7px 4px -5px rgba(0, 0, 0, 0.784314);  }
+#button_5b736143:hover { background-color:rgba(0, 108, 227, 0.8); border-color:#000000;  }
+#button_5b736143:hover span { color:#FFFFFF; }
+body { background-color:#0E0F1A; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_3fd19a42 { vertical-align: top; position:relative; display: inline-block; width:102%; min-height:675px; background:none;  }
+#container_3fd19a42_padding { margin: 10px; display: block;  }
+#container_372572cb { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:110px; background:none;  }
+#container_372572cb_padding { margin: 10px; display: block;  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle2 { text-align:center; }
+.textstyle3 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+.textstyle4 { font-size:32pt; font-family:'@Microsoft YaHei UI'; color:#0A9DFF; font-weight:bold;  }
+.textstyle5 { font-size:30pt; font-family:'@Microsoft YaHei UI'; color:#FFFFFF; font-weight:bold;  }
+#container_19a214ce { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:472px; background:none; border-top: none; border-left: none; border-right: none; border-bottom: none;  }
+#container_19a214ce_padding { margin: 10px; display: block;  }
+#container_23467b03 { box-sizing: border-box; vertical-align: top; border-radius: 5px; position:relative; display: inline-block; width:83%; min-height:581px; background-color:#0F1423; border-top: none; border-left: 5px solid #0A9DFF; border-right: none; border-bottom: none;  }
+#container_23467b03_padding { margin: 10px; display: block;  }
+#img_1f43b43a { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; width:26%; background:none; height:auto;  }
+#container_45c793e9 { vertical-align: top; position:relative; display: inline-block; width:74%; min-height:50px; background:none;  }
+#container_45c793e9_padding { margin: 10px; display: block;  }
+#container_325f9d76 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:20px; background:none;  }
+#container_325f9d76_padding { margin: 10px; display: block;  }
+#img_1d02c053 { vertical-align: bottom; position:relative; display: inline-block; width:6%; background:none; height:auto;  }
+.textstyle6 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  }
+#container_58949585 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:20px; background:none;  }
+#container_58949585_padding { margin: 10px; display: block;  }
+#img_6f123cbb { vertical-align: bottom; position:relative; display: inline-block; width:6%; background:none; height:auto;  }
+#container_7771ed8c { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:38px; background:none;  }
+#container_7771ed8c_padding { margin: 10px; display: block;  }
+#img_1f6374ba { vertical-align: bottom; position:relative; display: inline-block; width:6%; background:none; height:auto;  }
+.textstyle7 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#container_68dc096 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:30px; background:none;  }
+#container_68dc096_padding { margin: 10px; display: block;  }
+.textstyle8 { font-size:8pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-style:italic;  }
+#container_597592f2 { vertical-align: top; position:relative; display: inline-block; margin:10px 0px 0px 0px;width:100%; min-height:246px; background:none;  }
+#container_597592f2_padding { margin: 10px; display: block;  }
